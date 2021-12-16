@@ -15,6 +15,6 @@ clang -Wall main.c
 
 ### Options
 
-- `-n`:show user and group
-- `-i`:show inode number
-- `-s`:show the of size (in bytes) and blocks
+- `-n`: show user and group
+- `-i`: show inode number
+- `-s`: show the of size (in bytes) and blocks
