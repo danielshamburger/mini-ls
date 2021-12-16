@@ -11,7 +11,9 @@ clang -Wall main.c
 
 ## Usage
 
+```bash
 [EXECUTABLE] [OPTIONS] [DIRECTORY]
+```
 
 ### Options
 
