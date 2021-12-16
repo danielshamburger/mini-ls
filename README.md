@@ -1,6 +1,6 @@
 # Mini `ls`
 
-A light implementation of the *nix `ls` command.
+A light implementation of the POSIX `ls` command.
 
 ## Build
 
